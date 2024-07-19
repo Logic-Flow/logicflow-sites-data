@@ -254,5 +254,43 @@
       "screenshot": "https://gw.alipayobjects.com/zos/antfincdn/RYy4GI8Y8d/demo.gif",
       "lang": "en"
     }
+  ],
+  bannerMessages: [
+    {
+        "title": {
+            "zh": "AntV 第七届品牌日「初心 · 出新」",
+            "en": "AntV 第七届品牌日「初心 · 出新」"
+        },
+        "subTitle": {
+            "zh": "今年有升级了啥？看看数据可视化新的设计和技术！",
+            "en": "今年有升级了啥？看看数据可视化新的设计和技术！"
+        },
+        "img": "https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*7svFR6wkPMoAAAAAAAAAAAAADmJ7AQ/original",
+        "link": "https://www.yuque.com/antv/blog/1122_7"
+    },
+    {
+        "title": {
+            "zh": "第十八届 D2 大会",
+            "en": "第十八届 D2 大会"
+        },
+        "subTitle": {
+            "zh": "D2 终端技术大会火热来袭，以技术会友，一起分享技术的乐趣。",
+            "en": "D2 终端技术大会火热来袭，以技术会友，一起分享技术的乐趣。"
+        },
+        "link": "https://d2.alibabatech.com/",
+        "img": "https://ae01.alicdn.com/kf/S8c763cc992e34984bd92892eb843008cw/64x64.png"
+    },
+    {
+        "title": {
+            "zh": "语雀公益计划",
+            "en": "语雀公益计划"
+        },
+        "subTitle": {
+            "zh": "大学生认证教育邮箱，即可免费获得语雀会员。语雀，支付宝匠心打造的在线文档平台。",
+            "en": "大学生认证教育邮箱，即可免费获得语雀会员。语雀，支付宝匠心打造的在线文档平台。"
+        },
+        "link": "https://www.yuque.com/yuque/blog/welfare-edu?source=antv",
+        "img": "https://mdn.alipayobjects.com/huamei_0prmtq/afts/img/A*vMxOQIh4KBMAAAAAAAAAAAAADvuFAQ/original"
+    }
   ]
 }
