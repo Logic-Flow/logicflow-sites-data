@@ -1,0 +1,90 @@
+{
+  "notifications": [
+    {
+      "type": "论坛",
+      "title": "AntV 芒种日 图新物：GraphInsight 发布",
+      "date": "2022.06.06",
+      "link": "https://github.com/antvis/GraphInsight",
+      "lang": "zh"
+    },
+    {
+      "type": "论坛",
+      "title": "SEE Conf 2022 支付宝体验科技大会",
+      "date": "2022.01.08",
+      "link": "https://seeconf.antfin.com/",
+      "lang": "zh"
+    },
+    {
+      "type": "论坛",
+      "title": "第十六届 D2 前端技术论坛·精心",
+      "date": "2021.12.18",
+      "link": "http://d2forum.alibaba-inc.com/",
+      "lang": "zh"
+    },
+    {
+      "type": "Forum",
+      "title": "AntV New Product Launch: GraphInsight",
+      "date": "2022.06.06",
+      "link": "https://github.com/antvis/GraphInsight",
+      "lang": "en"
+    },
+    {
+      "type": "Forum",
+      "title": "Alipay Experience Technology Conference",
+      "date": "2022.01.08",
+      "link": "https://seeconf.antfin.com/",
+      "lang": "en"
+    },
+    {
+      "type": "Forum",
+      "title": "The 16th D2 Frontend Technology Forum",
+      "date": "2021.12.18",
+      "link": "http://d2forum.alibaba-inc.com/",
+      "lang": "en"
+    }
+  ],
+  "showCases": [
+    {
+      "type": "X6",
+      "title": "DAG 图",
+      "href": "https://x6.antv.vision/zh/examples/showcase/practices#dag",
+      "screenshot": "https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*7padSZBBwPIAAAAAAAAAAAAAARQnAQ",
+      "lang": "zh"
+    },
+    {
+      "type": "X6",
+      "title": "DAG",
+      "href": "https://x6.antv.vision/en/examples/showcase/practices#dag",
+      "screenshot": "https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*7padSZBBwPIAAAAAAAAAAAAAARQnAQ",
+      "lang": "en"
+    },
+    {
+      "type": "X6",
+      "title": "流程图",
+      "href": "https://x6.antv.vision/zh/examples/showcase/practices#flowchart",
+      "screenshot": "https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*VnR6T7EcIqkAAAAAAAAAAAAAARQnAQ",
+      "lang": "zh"
+    },
+    {
+      "type": "X6",
+      "title": "Flow Chart",
+      "href": "https://x6.antv.vision/en/examples/showcase/practices#flowchart",
+      "screenshot": "https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*VnR6T7EcIqkAAAAAAAAAAAAAARQnAQ",
+      "lang": "en"
+    },
+    {
+      "type": "X6",
+      "title": "ER 图",
+      "href": "https://x6.antv.vision/zh/examples/showcase/practices#er",
+      "screenshot": "https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*H724Sokj3FEAAAAAAAAAAAAAARQnAQ",
+      "lang": "zh"
+    },
+    {
+      "type": "X6",
+      "title": "ER",
+      "href": "https://x6.antv.vision/en/examples/showcase/practices#er",
+      "screenshot": "https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*H724Sokj3FEAAAAAAAAAAAAAARQnAQ",
+      "lang": "en"
+    },
+  ]
+}
