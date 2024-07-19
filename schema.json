@@ -39,7 +39,9 @@
       ]
     }
   ],
-  "required": ["notifications"],
+  "required": [
+    "notifications"
+  ],
   "properties": {
     "notifications": {
       "$id": "#/properties/notifications",
@@ -84,7 +86,13 @@
                 "lang": "zh"
               }
             ],
-            "required": ["type", "title", "date", "link", "lang"],
+            "required": [
+              "type",
+              "title",
+              "date",
+              "link",
+              "lang"
+            ],
             "properties": {
               "type": {
                 "$id": "#/properties/notifications/items/anyOf/0/properties/type",
@@ -92,7 +100,9 @@
                 "title": "The type schema",
                 "description": "An explanation about the purpose of this instance.",
                 "default": "",
-                "examples": ["论坛"]
+                "examples": [
+                  "论坛"
+                ]
               },
               "title": {
                 "$id": "#/properties/notifications/items/anyOf/0/properties/title",
@@ -100,7 +110,9 @@
                 "title": "The title schema",
                 "description": "An explanation about the purpose of this instance.",
                 "default": "",
-                "examples": ["第十五届 D2 前端技术论坛·无界"]
+                "examples": [
+                  "第十五届 D2 前端技术论坛·无界"
+                ]
               },
               "date": {
                 "$id": "#/properties/notifications/items/anyOf/0/properties/date",
@@ -108,7 +120,9 @@
                 "title": "The date schema",
                 "description": "An explanation about the purpose of this instance.",
                 "default": "",
-                "examples": ["2020.12.19"]
+                "examples": [
+                  "2020.12.19"
+                ]
               },
               "link": {
                 "$id": "#/properties/notifications/items/anyOf/0/properties/link",
@@ -116,7 +130,9 @@
                 "title": "The link schema",
                 "description": "An explanation about the purpose of this instance.",
                 "default": "",
-                "examples": ["http://d2forum.alibaba-inc.com/"]
+                "examples": [
+                  "http://d2forum.alibaba-inc.com/"
+                ]
               },
               "lang": {
                 "$id": "#/properties/notifications/items/anyOf/0/properties/lang",
@@ -124,7 +140,9 @@
                 "title": "The lang schema",
                 "description": "An explanation about the purpose of this instance.",
                 "default": "",
-                "examples": ["zh"]
+                "examples": [
+                  "zh"
+                ]
               }
             },
             "additionalProperties": true
