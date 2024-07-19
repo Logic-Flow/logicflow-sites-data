@@ -45,90 +45,6 @@
   ],
   "showCases": [
     {
-      "type": "G6",
-      "title": "银行反洗钱",
-      "href": "https://graphinsight.antgroup.com/#/workspace?type=case",
-      "screenshot": "https://gw.alipayobjects.com/mdn/rms_0d75e8/afts/img/A*eXL9T6xqPlUAAAAAAAAAAAAAARQnAQ",
-      "lang": "zh"
-    },
-    {
-      "type": "G6",
-      "title": "Bank Anti-Money Laundering",
-      "href": "https://graphinsight.antgroup.com/#/workspace?type=case",
-      "screenshot": "https://gw.alipayobjects.com/mdn/rms_0d75e8/afts/img/A*eXL9T6xqPlUAAAAAAAAAAAAAARQnAQ",
-      "lang": "en"
-    },
-    {
-      "type": "G6",
-      "title": "企业风险图",
-      "href": "https://graphinsight.antgroup.com/#/workspace?type=case",
-      "screenshot": "https://gw.alipayobjects.com/mdn/rms_0d75e8/afts/img/A*ot4nR6rXqOcAAAAAAAAAAAAAARQnAQ",
-      "lang": "zh"
-    },
-    {
-      "type": "G6",
-      "title": "Enterprise Risk Discovery",
-      "href": "https://graphinsight.antgroup.com/#/workspace?type=case",
-      "screenshot": "https://gw.alipayobjects.com/mdn/rms_0d75e8/afts/img/A*ot4nR6rXqOcAAAAAAAAAAAAAARQnAQ",
-      "lang": "en"
-    },
-    {
-      "type": "G6",
-      "title": "网络安全溯源",
-      "href": "https://graphinsight.antgroup.com/#/workspace?type=case",
-      "screenshot": "https://gw.alipayobjects.com/mdn/rms_0d75e8/afts/img/A*WAaxR4V5sWEAAAAAAAAAAAAAARQnAQ",
-      "lang": "zh"
-    },
-    {
-      "type": "G6",
-      "title": "Network security traceability",
-      "href": "https://graphinsight.antgroup.com/#/workspace?type=case",
-      "screenshot": "https://gw.alipayobjects.com/mdn/rms_0d75e8/afts/img/A*WAaxR4V5sWEAAAAAAAAAAAAAARQnAQ",
-      "lang": "en"
-    },
-    {
-      "type": "G6",
-      "title": "决策树",
-      "href": "https://g6.antv.vision/zh/examples/case/treeDemos#decisionTree",
-      "screenshot": "https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*8WF4SYI4b8wAAAAAAAAAAAAAARQnAQ",
-      "lang": "zh"
-    },
-    {
-      "type": "G6",
-      "title": "Decision Tree",
-      "href": "https://g6.antv.vision/en/examples/case/treeDemos#decisionTree",
-      "screenshot": "https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*8WF4SYI4b8wAAAAAAAAAAAAAARQnAQ",
-      "lang": "en"
-    },
-    {
-      "type": "G6",
-      "title": "知识图谱树图",
-      "href": "https://g6.antv.vision/zh/examples/case/treeDemos#knowledgeTreeGraph",
-      "screenshot": "https://gw.alipayobjects.com/mdn/rms_f8c6a0/afts/img/A*2J5YTbvU5FoAAAAAAAAAAAAAARQnAQ",
-      "lang": "zh"
-    },
-    {
-      "type": "G6",
-      "title": "Knowledge Tree Graph",
-      "href": "https://g6.antv.vision/en/examples/case/treeDemos#knowledgeTreeGraph",
-      "screenshot": "https://gw.alipayobjects.com/mdn/rms_f8c6a0/afts/img/A*2J5YTbvU5FoAAAAAAAAAAAAAARQnAQ",
-      "lang": "en"
-    },
-    {
-      "type": "G6",
-      "title": "大规模图下钻式探索",
-      "href": "https://g6.antv.vision/zh/examples/case/graphDemos#largeGraph",
-      "screenshot": "https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*vOj-RZTkkm4AAAAAAAAAAAAAARQnAQ",
-      "lang": "zh"
-    },
-    {
-      "type": "G6",
-      "title": "Large Graph Drilling-down Exploration",
-      "href": "https://g6.antv.vision/en/examples/case/graphDemos#largeGraph",
-      "screenshot": "https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*vOj-RZTkkm4AAAAAAAAAAAAAARQnAQ",
-      "lang": "en"
-    },
-    {
       "type": "X6",
       "title": "DAG 图",
       "href": "https://x6.antv.vision/zh/examples/showcase/practices#dag",
@@ -169,128 +85,44 @@
       "href": "https://x6.antv.vision/en/examples/showcase/practices#er",
       "screenshot": "https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*H724Sokj3FEAAAAAAAAAAAAAARQnAQ",
       "lang": "en"
-    },
-    {
-      "type": "G2",
-      "title": "Monitor Line Chart",
-      "href": "https://g2.antv.vision/magi/monitor-line-chart/",
-      "screenshot": "https://gw.alipayobjects.com/zos/antfincdn/UJLaeQW8Qa/1605854684449-9a04f427-35f5-472e-b104-87d67967dcc9.png",
-      "lang": "en"
-    },
-    {
-      "type": "G2",
-      "title": "监控折线图",
-      "href": "https://g2.antv.vision/magi/monitor-line-chart/",
-      "screenshot": "https://gw.alipayobjects.com/zos/antfincdn/UJLaeQW8Qa/1605854684449-9a04f427-35f5-472e-b104-87d67967dcc9.png",
-      "lang": "zh"
-    },
-    {
-      "type": "G2Plot",
-      "title": "指标卡趋势图",
-      "href": "https://g2plot.antv.vision/zh/examples/case/statistical-scenario#trend",
-      "screenshot": "https://gw.alipayobjects.com/mdn/rms_d314dd/afts/img/A*kHHZQa-fpAQAAAAAAAAAAAAAARQnAQ",
-      "lang": "zh"
-    },
-    {
-      "type": "G2Plot",
-      "title": "Indicator Trend Diagram",
-      "href": "https://g2plot.antv.vision/zh/examples/case/statistical-scenario#trend",
-      "screenshot": "https://gw.alipayobjects.com/mdn/rms_d314dd/afts/img/A*kHHZQa-fpAQAAAAAAAAAAAAAARQnAQ",
-      "lang": "en"
-    },
-    {
-      "type": "G2Plot",
-      "title": "场景漏斗图",
-      "href": "https://g2plot.antv.vision/zh/examples/case/statistical-scenario#funnel",
-      "screenshot": "https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*1hQ_Sqag82cAAAAAAAAAAAAAARQnAQ",
-      "lang": "zh"
-    },
-    {
-      "type": "G2Plot",
-      "title": "Funnel Scenario",
-      "href": "https://g2plot.antv.vision/en/examples/case/statistical-scenario#funnel",
-      "screenshot": "https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*1hQ_Sqag82cAAAAAAAAAAAAAARQnAQ",
-      "lang": "en"
-    },
-    {
-      "type": "G2",
-      "title": "指标转化桑基图",
-      "href": "https://g2.antv.vision/zh/examples/case/sankey#sankey-card",
-      "screenshot": "https://gw.alipayobjects.com/mdn/rms_d314dd/afts/img/A*p3cjT4RWDEkAAAAAAAAAAAAAARQnAQ",
-      "lang": "zh"
-    },
-    {
-      "type": "G2",
-      "title": "Index Sankey Diagram",
-      "href": "https://g2.antv.vision/en/examples/case/sankey#sankey-card",
-      "screenshot": "https://gw.alipayobjects.com/mdn/rms_d314dd/afts/img/A*p3cjT4RWDEkAAAAAAAAAAAAAARQnAQ",
-      "lang": "en"
-    },
-    {
-      "type": "F2",
-      "title": "移动端横屏图",
-      "href": "https://f2.antv.vision/zh/examples/creative/case#landscape",
-      "screenshot": "https://gw.alipayobjects.com/zos/finxbff/compress-tinypng/c794e375-f704-47ef-b264-3029e75e93d4.png",
-      "lang": "zh"
-    },
-    {
-      "type": "F2",
-      "title": "Landscape Line Chart",
-      "href": "https://f2.antv.vision/en/examples/creative/case#landscape",
-      "screenshot": "https://gw.alipayobjects.com/zos/finxbff/compress-tinypng/c794e375-f704-47ef-b264-3029e75e93d4.png",
-      "lang": "en"
-    },
-    {
-      "type": "S2",
-      "title": "分群下钻表",
-      "href": "https://s2.antv.vision/zh/examples/case/proportion#group-drill-down",
-      "screenshot": "https://gw.alipayobjects.com/zos/antfincdn/RYy4GI8Y8d/demo.gif",
-      "lang": "zh"
-    },
-    {
-      "type": "S2",
-      "title": "Group Drill Down Sheet",
-      "href": "https://s2.antv.vision/en/examples/case/proportion#group-drill-down",
-      "screenshot": "https://gw.alipayobjects.com/zos/antfincdn/RYy4GI8Y8d/demo.gif",
-      "lang": "en"
     }
   ],
-  bannerMessages: [
+  "bannerMessages": [
     {
-        "title": {
-            "zh": "AntV 第七届品牌日「初心 · 出新」",
-            "en": "AntV 第七届品牌日「初心 · 出新」"
-        },
-        "subTitle": {
-            "zh": "今年有升级了啥？看看数据可视化新的设计和技术！",
-            "en": "今年有升级了啥？看看数据可视化新的设计和技术！"
-        },
-        "img": "https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*7svFR6wkPMoAAAAAAAAAAAAADmJ7AQ/original",
-        "link": "https://www.yuque.com/antv/blog/1122_7"
+      "title": {
+        "zh": "AntV 第七届品牌日「初心 · 出新」",
+        "en": "AntV 第七届品牌日「初心 · 出新」"
+      },
+      "subTitle": {
+        "zh": "今年有升级了啥？看看数据可视化新的设计和技术！",
+        "en": "今年有升级了啥？看看数据可视化新的设计和技术！"
+      },
+      "img": "https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*7svFR6wkPMoAAAAAAAAAAAAADmJ7AQ/original",
+      "link": "https://www.yuque.com/antv/blog/1122_7"
     },
     {
-        "title": {
-            "zh": "第十八届 D2 大会",
-            "en": "第十八届 D2 大会"
-        },
-        "subTitle": {
-            "zh": "D2 终端技术大会火热来袭，以技术会友，一起分享技术的乐趣。",
-            "en": "D2 终端技术大会火热来袭，以技术会友，一起分享技术的乐趣。"
-        },
-        "link": "https://d2.alibabatech.com/",
-        "img": "https://ae01.alicdn.com/kf/S8c763cc992e34984bd92892eb843008cw/64x64.png"
+      "title": {
+        "zh": "第十八届 D2 大会",
+        "en": "第十八届 D2 大会"
+      },
+      "subTitle": {
+        "zh": "D2 终端技术大会火热来袭，以技术会友，一起分享技术的乐趣。",
+        "en": "D2 终端技术大会火热来袭，以技术会友，一起分享技术的乐趣。"
+      },
+      "link": "https://d2.alibabatech.com/",
+      "img": "https://ae01.alicdn.com/kf/S8c763cc992e34984bd92892eb843008cw/64x64.png"
     },
     {
-        "title": {
-            "zh": "语雀公益计划",
-            "en": "语雀公益计划"
-        },
-        "subTitle": {
-            "zh": "大学生认证教育邮箱，即可免费获得语雀会员。语雀，支付宝匠心打造的在线文档平台。",
-            "en": "大学生认证教育邮箱，即可免费获得语雀会员。语雀，支付宝匠心打造的在线文档平台。"
-        },
-        "link": "https://www.yuque.com/yuque/blog/welfare-edu?source=antv",
-        "img": "https://mdn.alipayobjects.com/huamei_0prmtq/afts/img/A*vMxOQIh4KBMAAAAAAAAAAAAADvuFAQ/original"
+      "title": {
+        "zh": "语雀公益计划",
+        "en": "语雀公益计划"
+      },
+      "subTitle": {
+        "zh": "大学生认证教育邮箱，即可免费获得语雀会员。语雀，支付宝匠心打造的在线文档平台。",
+        "en": "大学生认证教育邮箱，即可免费获得语雀会员。语雀，支付宝匠心打造的在线文档平台。"
+      },
+      "link": "https://www.yuque.com/yuque/blog/welfare-edu?source=antv",
+      "img": "https://mdn.alipayobjects.com/huamei_0prmtq/afts/img/A*vMxOQIh4KBMAAAAAAAAAAAAADvuFAQ/original"
     }
   ]
 }
