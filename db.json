@@ -45,22 +45,22 @@
   ],
   "swiperCases": [
     {
-      "title": "LOL 世界赛晋级预测",
-      "subtitle": "Subtitle",
+      "title": "League of Legends",
+      "subtitle": "世界赛晋级预测",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dictum mattis velit, sit amet faucibus felis iaculis nec. Nulla laoreet justo vitae porttitor porttitor. Suspendisse in sem justo. Integer laoreet magna nec elit suscipit, ac laoreet nibh euismod. Aliquam hendrerit lorem at elit facilisis rutrum. Ut at ullamcorper velit. Nulla ligula nisi, imperdiet ut lacinia nec, tincidunt ut libero. Aenean feugiat non eros quis feugiat.",
       "img": "https://cdn.jsdelivr.net/gh/Logic-Flow/static@latest/docs/examples/case/bussiness/games.png",
       "alt": "比赛晋级图"
     },
     {
-      "title": "低代码逻辑编排",
-      "subtitle": "Subtitle",
+      "title": "低代码实践探索",
+      "subtitle": "逻辑编排器",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dictum mattis velit, sit amet faucibus felis iaculis nec. Nulla laoreet justo vitae porttitor porttitor. Suspendisse in sem justo. Integer laoreet magna nec elit suscipit, ac laoreet nibh euismod. Aliquam hendrerit lorem at elit facilisis rutrum. Ut at ullamcorper velit. Nulla ligula nisi, imperdiet ut lacinia nec, tincidunt ut libero. Aenean feugiat non eros quis feugiat.",
       "img": "https://cdn.jsdelivr.net/gh/Logic-Flow/static@latest/docs/examples/case/bussiness/organizer.png",
       "alt": "低代码编排器"
     },
     {
-      "title": "小桔问卷跳转逻辑配置",
-      "subtitle": "Subtitle",
+      "title": "小桔问卷",
+      "subtitle": "问卷跳转逻辑配置",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dictum mattis velit, sit amet faucibus felis iaculis nec. Nulla laoreet justo vitae porttitor porttitor. Suspendisse in sem justo. Integer laoreet magna nec elit suscipit, ac laoreet nibh euismod. Aliquam hendrerit lorem at elit facilisis rutrum. Ut at ullamcorper velit. Nulla ligula nisi, imperdiet ut lacinia nec, tincidunt ut libero. Aenean feugiat non eros quis feugiat.",
       "img": "https://cdn.jsdelivr.net/gh/Logic-Flow/static@latest/docs/examples/case/demo/beautification.png",
       "alt": "小桔问卷"
