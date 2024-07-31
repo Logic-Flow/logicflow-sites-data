@@ -43,6 +43,29 @@
       "lang": "en"
     }
   ],
+  "swiperCases": [
+    {
+      "title": "LOL 世界赛晋级预测",
+      "subtitle": "Subtitle",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dictum mattis velit, sit amet faucibus felis iaculis nec. Nulla laoreet justo vitae porttitor porttitor. Suspendisse in sem justo. Integer laoreet magna nec elit suscipit, ac laoreet nibh euismod. Aliquam hendrerit lorem at elit facilisis rutrum. Ut at ullamcorper velit. Nulla ligula nisi, imperdiet ut lacinia nec, tincidunt ut libero. Aenean feugiat non eros quis feugiat.",
+      "img": "https://cdn.jsdelivr.net/gh/Logic-Flow/static@latest/docs/examples/case/bussiness/games.png",
+      "alt": "比赛晋级图"
+    },
+    {
+      "title": "低代码逻辑编排",
+      "subtitle": "Subtitle",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dictum mattis velit, sit amet faucibus felis iaculis nec. Nulla laoreet justo vitae porttitor porttitor. Suspendisse in sem justo. Integer laoreet magna nec elit suscipit, ac laoreet nibh euismod. Aliquam hendrerit lorem at elit facilisis rutrum. Ut at ullamcorper velit. Nulla ligula nisi, imperdiet ut lacinia nec, tincidunt ut libero. Aenean feugiat non eros quis feugiat.",
+      "img": "https://cdn.jsdelivr.net/gh/Logic-Flow/static@latest/docs/examples/case/bussiness/organizer.png",
+      "alt": "低代码编排器"
+    },
+    {
+      "title": "小桔问卷跳转逻辑配置",
+      "subtitle": "Subtitle",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dictum mattis velit, sit amet faucibus felis iaculis nec. Nulla laoreet justo vitae porttitor porttitor. Suspendisse in sem justo. Integer laoreet magna nec elit suscipit, ac laoreet nibh euismod. Aliquam hendrerit lorem at elit facilisis rutrum. Ut at ullamcorper velit. Nulla ligula nisi, imperdiet ut lacinia nec, tincidunt ut libero. Aenean feugiat non eros quis feugiat.",
+      "img": "https://cdn.jsdelivr.net/gh/Logic-Flow/static@latest/docs/examples/case/demo/beautification.png",
+      "alt": "小桔问卷"
+    }
+  ],
   "showCases": [
     {
       "type": "X6",
@@ -71,20 +94,6 @@
       "href": "https://x6.antv.vision/en/examples/showcase/practices#flowchart",
       "screenshot": "https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*VnR6T7EcIqkAAAAAAAAAAAAAARQnAQ",
       "lang": "en"
-    },
-    {
-      "type": "X6",
-      "title": "ER 图",
-      "href": "https://x6.antv.vision/zh/examples/showcase/practices#er",
-      "screenshot": "https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*H724Sokj3FEAAAAAAAAAAAAAARQnAQ",
-      "lang": "zh"
-    },
-    {
-      "type": "X6",
-      "title": "ER",
-      "href": "https://x6.antv.vision/en/examples/showcase/practices#er",
-      "screenshot": "https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*H724Sokj3FEAAAAAAAAAAAAAARQnAQ",
-      "lang": "en"
     }
   ],
   "bannerMessages": [
@@ -99,30 +108,6 @@
       },
       "img": "https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*7svFR6wkPMoAAAAAAAAAAAAADmJ7AQ/original",
       "link": "https://www.yuque.com/antv/blog/1122_7"
-    },
-    {
-      "title": {
-        "zh": "第十八届 D2 大会",
-        "en": "第十八届 D2 大会"
-      },
-      "subTitle": {
-        "zh": "D2 终端技术大会火热来袭，以技术会友，一起分享技术的乐趣。",
-        "en": "D2 终端技术大会火热来袭，以技术会友，一起分享技术的乐趣。"
-      },
-      "link": "https://d2.alibabatech.com/",
-      "img": "https://ae01.alicdn.com/kf/S8c763cc992e34984bd92892eb843008cw/64x64.png"
-    },
-    {
-      "title": {
-        "zh": "语雀公益计划",
-        "en": "语雀公益计划"
-      },
-      "subTitle": {
-        "zh": "大学生认证教育邮箱，即可免费获得语雀会员。语雀，支付宝匠心打造的在线文档平台。",
-        "en": "大学生认证教育邮箱，即可免费获得语雀会员。语雀，支付宝匠心打造的在线文档平台。"
-      },
-      "link": "https://www.yuque.com/yuque/blog/welfare-edu?source=antv",
-      "img": "https://mdn.alipayobjects.com/huamei_0prmtq/afts/img/A*vMxOQIh4KBMAAAAAAAAAAAAADvuFAQ/original"
     }
   ]
 }
