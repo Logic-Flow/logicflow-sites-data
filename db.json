@@ -48,21 +48,21 @@
       "title": "零代码逻辑编排",
       "subtitle": "零代码应用",
       "desc": "在滴滴客服业务里，通过零代码的方式来配置页面已经有丰富的落地经验，大大的提高了服务用户的效率和质量。但是传统零代码在页面逻辑配置上表现并不好，很难做到灵活扩展。因此，滴滴客服技术团队探索出一种新的思路，用流程编排的方式来编排页面的逻辑，解决零代码的难扩展问题。",
-      "img": "https://cdn.jsdelivr.net/gh/Logic-Flow/static@latest/docs/examples/case/bussiness/organizer.png",
+      "img": "https://s3-gzpu.didistatic.com/ese-feedback/LogicFlow/swipper/organizer.png",
       "alt": "低代码编排器"
     },
     {
       "title": "企业级问卷系统 - XIAOJUSURVEY",
       "subtitle": "图形化跳转逻辑应用",
       "desc": "XIAOJUSURVEY是滴滴开源的企业级问卷系统，提供全面、专业和安全的在线调研解决方案。通过集成 LogicFlow 实现了复杂的问卷跳转逻辑，支持市场调研、客户满意度调查和在线考试等多场景应用。通过图形化编排能够直观地创建和维护复杂的问卷流程，轻松实现多条件分支、循环、条件跳转等复杂逻辑，进而提升了系统的灵活性和客户体验。",
-      "img": "https://cdn.jsdelivr.net/gh/Logic-Flow/static@latest/docs/homepage/xiaojukeji1.png",
+      "img": "https://s3-gzpu.didistatic.com/ese-feedback/LogicFlow/swipper/xiaojukeji1.png",
       "alt": "小桔问卷"
     },
     {
       "title": "LOL 世界赛晋级预测",
       "subtitle": "LogicFLow 晋级流程图",
       "desc": "一位热心的LOL玩家利用LogicFlow创建了详细的晋级流程图，并分享了自己对今年小组赛的预测。尽管在最近的比赛中感到沮丧，他依然对京东战队充满信心。该图表展示了各支战队的晋级路径和可能结果，为LOL爱好者提供了一个有趣的讨论点。",
-      "img": "https://cdn.jsdelivr.net/gh/Logic-Flow/static@latest/docs/examples/case/bussiness/games.png",
+      "img": "https://s3-gzpu.didistatic.com/ese-feedback/LogicFlow/swipper/games.png",
       "alt": "比赛晋级图"
     }
   ],
